@@ -1,5 +1,5 @@
 {
-    'name:': 'Webkul Odoo E-learning',
+    'name': 'Webkul Odoo E-learning',
     'version': '1.0',
     'depends': ['base'],
     'author': 'Yamil Padron',
